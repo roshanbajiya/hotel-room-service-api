@@ -30,12 +30,19 @@ builder.Services.AddDbContext<RoomDbContext>(options =>
     options.UseSqlServer(connectionString));
 
 var app = builder.Build();
+
 app.UseHttpsRedirection();
-app.UseSwagger();
-app.UseSwaggerUI();
+if (app.Environment.IsDevelopment() || app.Environment.IsStaging() || app.Environment.IsProduction())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
 
-
+ 
+app.UseRouting();
 app.UseAuthorization();
+
 app.MapControllers();
+app.MapGet("/", () => "Room Service API is running.");
 
 app.Run();

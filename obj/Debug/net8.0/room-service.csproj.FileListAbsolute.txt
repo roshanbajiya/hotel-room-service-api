@@ -172,3 +172,16 @@ C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\obj\Debug\net8.0\r
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\obj\Debug\net8.0\room-service.pdb
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\obj\Debug\net8.0\room-service.genruntimeconfig.cache
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\obj\Debug\net8.0\ref\room-service.dll
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\publish\web.config
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\web.config
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\publish\appsettings.Development.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\publish\appsettings.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\publish\room-service.deps.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\publish\room-service.runtimeconfig.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\publish\room-service.staticwebassets.endpoints.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\room-service.deps.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\room-service.runtimeconfig.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\bin\Debug\net8.0\publish\room-service.staticwebassets.endpoints.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\obj\Debug\net8.0\room-service.sourcelink.json

@@ -1,6 +1,12 @@
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\room-service.exe
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\publish\web.config
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\appsettings.Development.json
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\appsettings.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\publish\appsettings.Development.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\publish\appsettings.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\publish\room-service.deps.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\publish\room-service.runtimeconfig.json
+C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\publish\room-service.staticwebassets.endpoints.json
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\room-service.dll
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\room-service.runtimeconfig.json
 C:\Users\Vanshika\OneDrive\Documents\HotelWebAPI\room-service\publish\room-service.pdb
